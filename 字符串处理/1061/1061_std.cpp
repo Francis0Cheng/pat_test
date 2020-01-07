@@ -1,6 +1,7 @@
 /*
 printf格式化输出%02d
 while循环便利数组 
+边界问题仔细读题：比如说S1的范围是A-G 
 */
 #include<bits/stdc++.h>
 using namespace std;

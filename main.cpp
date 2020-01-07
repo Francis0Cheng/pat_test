@@ -2,11 +2,9 @@
 using namespace std;
 int main()
 {
-
-	int b;
-	string a;
-	a = "sdf";
-	int c;
-
+	string s;
+	queue<int> q;
+	s =  "234";
+	s = "Q34";	
 	return 0;
 } 
