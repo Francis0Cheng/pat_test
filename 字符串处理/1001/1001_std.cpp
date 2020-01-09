@@ -2,7 +2,7 @@
 using namespace std;
  int main() {    
  int a, b;   
-  cin >> a >> b;   
+   cin >> a >> b;   
    string s = to_string(a + b);    
    int len = s.length();    
    for (int i = 0; i < len; i++) {        

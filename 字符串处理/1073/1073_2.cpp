@@ -10,7 +10,7 @@ int main()
 	string s;
 	cin>>s;
 	int i=0;
-	while(s[i]!='E')i++;
+	i = s.find("E");
 	string t = s.substr(1,i-1);
 
 	int n = stoi(s.substr(i+1));

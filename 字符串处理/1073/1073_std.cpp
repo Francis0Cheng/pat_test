@@ -22,7 +22,7 @@ int main() {
 		 for (int k = 0; k < n - cnt; k++) 
 		 cout << '0';
 		 } 
-	ellse {
+	else {
 		 cout << '.';
 		 for (int k = j; k < t.length(); k++) 
 		 	cout << t[k];
